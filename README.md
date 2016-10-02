@@ -1,2 +1,2 @@
 # __docker-tomcat__
-Conjunto de imagenes docker con tomcat
+Set of docker images with Tomcat over Oracle Java
